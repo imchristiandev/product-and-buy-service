@@ -1,0 +1,28 @@
+{
+  "name": "product-and-buy-service",
+  "version": "1.0.0",
+  "description": "Is a service that creates a product and does a transaction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imchristiandev/product-and-buy-service.git"
+  },
+  "keywords": [
+    "product",
+    "VTEX",
+    "transaction",
+    "create",
+    "product",
+    "modify",
+    "product"
+  ],
+  "author": "Christian Ramírez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imchristiandev/product-and-buy-service/issues"
+  },
+  "homepage": "https://github.com/imchristiandev/product-and-buy-service#readme"
+}
